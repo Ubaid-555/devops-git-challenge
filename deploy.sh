@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-APP_ENV="main"
+APP_ENV="staging"
 echo "Deploying application to $APP_ENV"
